@@ -1,4 +1,5 @@
 # AccuCor - Isotope Natural Abundance Correction
+# Yujue is participating.
 
 [![R-CMD-check](https://github.com/XiaoyangSu/AccuCor/actions/workflows/r_standard_check.yml/badge.svg)](https://github.com/XiaoyangSu/AccuCor/actions/workflows/r_standard_check.yml)
 
